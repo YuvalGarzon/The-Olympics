@@ -1,0 +1,13 @@
+# ninja log v6
+1	49	1735050046389537617	CMakeFiles/FinalProjectYuvalAndYuval.dir/Athlete.c.o	aca867be27c5815d
+1	50	1735050046389813994	CMakeFiles/FinalProjectYuvalAndYuval.dir/City.c.o	535a320573834010
+2	50	1735050046390233288	CMakeFiles/FinalProjectYuvalAndYuval.dir/Country.c.o	79e2159865c37a39
+2	50	1735050046390611332	CMakeFiles/FinalProjectYuvalAndYuval.dir/Date.c.o	765cb63b3ff4664b
+4	50	1735050046392852846	CMakeFiles/FinalProjectYuvalAndYuval.dir/Main.c.o	3b03a882d76de250
+4	51	1735050046392190634	CMakeFiles/FinalProjectYuvalAndYuval.dir/List.c.o	b5741dd90f87ff80
+4	51	1735050046393047723	CMakeFiles/FinalProjectYuvalAndYuval.dir/Match.c.o	30161a20003081c5
+2	51	1735050046391157377	CMakeFiles/FinalProjectYuvalAndYuval.dir/General.c.o	9df2f679b03517f4
+5	55	1735050046393288766	CMakeFiles/FinalProjectYuvalAndYuval.dir/Sport.c.o	338fa8ab03e4dad
+1	36	1735050108945372507	CMakeFiles/FinalProjectYuvalAndYuval.dir/Venue.c.o	abf7fb4ce50e03f9
+1	48	1735069524644544678	CMakeFiles/FinalProjectYuvalAndYuval.dir/Olympics.c.o	be72e6b82c364cd6
+49	89	1735069524692115864	FinalProjectYuvalAndYuval	432a709ed8c62c7a
