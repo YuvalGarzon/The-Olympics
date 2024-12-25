@@ -9,6 +9,7 @@ void freeAthlete(Athlete* a) {
 	free(a->country);
 	//free(a->sport);
 }
+
 void freeAthletePtr(void* pAthletePtr) {
 	Athlete* temp = *(Athlete**)pAthletePtr;
 	freeAthlete(temp);
