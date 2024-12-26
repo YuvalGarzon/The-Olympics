@@ -52,6 +52,4 @@ The project is designed as a modular system, where each major component is imple
 ## Credits
 - **Yuval Garzon** and **Yuval Davidovits**: Project creators and contributors.
 
----
-Feel free to customize this file further to suit your needs.
 
